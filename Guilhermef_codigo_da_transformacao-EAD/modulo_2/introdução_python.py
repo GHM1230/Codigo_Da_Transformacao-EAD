@@ -1,7 +1,0 @@
-'''
-
-CRUD
-
-introdução ao python
-
-'''
