@@ -26,7 +26,7 @@ elif nome == "asdghjkln":
     print("voce de novo? (●__●)")
 
 elif nome == "modo autodestruição":
-    print(" de novoo naaaãaãããããaaaaaõooooooooo w(ﾟДﾟ)w (barulho de explosão)")
+    print("perai, de novoo naaaãaãããããaaaaaõooooooooo w(ﾟДﾟ)w (barulho de explosão)")
 
 elif nome == ("não é da sua conta"):
     print("mas como eu vou saber o seu nome se você não me contar? (¬_¬ )")
