@@ -16,6 +16,9 @@ if nome == "Guilherme":
 elif nome == "ivan":
     print("que legal, esse é o nome do professor do programador! (^o^)")
 
+elif nome == "copilot":
+    print("que legal, esse é o nome do assistente de programação! (◕‿◕)")
+
 elif nome == "batman":
     print("opa, um fã do morcegão! :-D")
 
