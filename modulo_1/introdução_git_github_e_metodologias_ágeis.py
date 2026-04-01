@@ -4,6 +4,8 @@ CRUD
 
 apresentacao do git e github
 
+fiz tudo junto.
+
 '''
 
 print("bom dia tudo bem? (^_^) ")
