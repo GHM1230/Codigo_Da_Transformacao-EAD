@@ -4,7 +4,6 @@ CRUD
 
 apresentacao do git e github
 
-fiz tudo junto.
 
 '''
 

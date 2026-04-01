@@ -4,6 +4,8 @@ CRUD
 
 projeto do nome
 
+fiz tudo junto.
+
 '''
 
 print("olá, bem vindo!")
