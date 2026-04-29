@@ -14,7 +14,7 @@ while True:
         palpite = int(input("\nDigite seu palpite: "))
         tentativas += 1
 
-        math.fabs() para calcular a diferença absoluta.
+        math.fabs()
         diferenca = math.fabs(palpite - numero_secreto)
 
         if palpite == numero_secreto:
